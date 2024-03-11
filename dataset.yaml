@@ -1,0 +1,7 @@
+names:
+- knot
+nc: 1
+path: /Users/mkonopelski/Projects/research/wood_knot_counting/data/dataset/images
+train: train
+val: val
+test: data/test
