@@ -10,7 +10,7 @@ Here is how the detection algorithm works in close-up:
 ![Alt Text](resources/WoodKnotCountingPresentation2.gif)
 
 
-
+Full video with prediction results: https://vimeo.com/921840397
 
 ## 4nerds
 Model specs:
